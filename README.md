@@ -4,6 +4,15 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
+### [3/1/2024] Applying OS Hardening Techniques
+- This folder contains documents and logs related to networking, security incidents, and OS hardening techniques.
+- Explore the materials for insights into network analysis, security incident reporting, and operating system security.
+- Added tcpdump log with explanation: Reading the tcpdump traffic log.
+  - Detailed analysis of DNS and HTTP traffic, identifying malicious activities.
+  - Explanation of TCP flag codes and HTTP requests.
+  - Resources for more information on tcpdump usage.
+- ...
+  
 ### [2/24/2024] Analyzing Network Attacks
 - Conducted detailed analysis of a SYN flood attack.
 - Examined Wireshark TCP-HTTP logs to understand attack patterns.
