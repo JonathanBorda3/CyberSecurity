@@ -4,6 +4,12 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
+### [3/10/2024] Network Hardening Tools and Security Risk Assessment
+- Explored security hardening tasks, configurations, and risk assessment in network environments.
+- Addressed vulnerabilities through Multifactor Authentication, Firewall Rule Configuration, and Password Policy Enforcement.
+- Referenced a scenario document highlighting major vulnerabilities and the need for security measures.
+- ...
+  
 ### [3/1/2024] Applying OS Hardening Techniques
 - This folder contains documents and logs related to networking, security incidents, and OS hardening techniques.
 - Explore the materials for insights into network analysis, security incident reporting, and operating system security.
