@@ -48,8 +48,6 @@ For detailed insights into the scenario and plan implementation, please refer to
 ## Documents Overview
 Explore each document for comprehensive insights and guidelines on managing cybersecurity incidents and applying the NIST CSF framework effectively.
 
-**Note:** Document 2 is intentionally left empty.
-
 Feel free to contribute, provide feedback, or suggest improvements to our cybersecurity practices! 
 
 [Incident Report Analysis](#1-incident-report-analysis)
