@@ -1,7 +1,7 @@
 # Linux Software Installation Lab
 
 ## Introduction
-In this lab, you’ll learn how to install and uninstall applications in Linux Ubuntu and the Advanced Package Tool (APT) package manager. You'll specifically work with the Suricata and tcpdump applications, essential for network security analysis.
+In this completed lab, you’ll learn how to install and uninstall applications in Linux Ubuntu and the Advanced Package Tool (APT) package manager. You'll specifically work with the Suricata and tcpdump applications, essential for network security analysis.
 
 ## Activity Overview
 This lab guides you through installing and uninstalling applications in Ubuntu using APT and sudo. It highlights the convenience of the APT package manager in managing software complexities, especially in a Linux environment. The lab focuses on network security applications like Suricata and tcpdump, crucial for analyzing and capturing network traffic.
