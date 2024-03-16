@@ -3,6 +3,26 @@
 This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be documenting my progress, security audits, and practice work related to cybersecurity.
 
 ## Updates
+### [3/14/2024] Linux Software Installation Lab
+
+#### Introduction
+This lab guides participants through the process of managing software installations and removals in a Linux distribution, specifically Ubuntu, using command-line tools. By leveraging the APT package manager and sudo privileges, users install Suricata and tcpdump, essential for network security analysis.
+
+#### Activity Overview
+In this lab activity, participants will use the Advanced Package Tool (APT) and sudo to install and uninstall applications in Ubuntu. The lab emphasizes the importance of efficient software management in a Linux environment, particularly for security analysts requiring network monitoring tools like Suricata and tcpdump.
+
+#### Scenario
+Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system. In this scenario, you have to install, uninstall, and reinstall these applications on your Linux Bash shell. You also need to confirm that you’ve installed them correctly.
+
+#### Tasks
+1. **Ensure APT Installation**: Confirm the presence of the APT package manager in your Linux environment.
+2. **Install and Uninstall Suricata**:
+   - Install Suricata using the APT package manager (`sudo apt install suricata`).
+   - Verify the installation by running the `suricata` command.
+   - Uninstall Suricata using `sudo apt remove suricata`.
+3. **Install the tcpdump Application**: Install tcpdump, a network traffic capturing tool, using the APT package manager (`sudo apt install tcpdump`).
+4. **List Installed Applications**: Confirm the installation of required applications by listing all installed applications using the APT package manager (`apt list --installed`).
+
 ### [3/13/2024] NIST Cybersecurity Framework Incident Report
 
 This folder contains documents related to network security practices and incident response strategies, focusing on the NIST Cybersecurity Framework (CSF).
