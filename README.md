@@ -3,6 +3,25 @@
 This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be documenting my progress, security audits, and practice work related to cybersecurity.
 
 ## Updates
+
+### [3/14/2024] File Permissions Management in Linux
+
+This folder contains three important documents related to managing file permissions in Linux within the `/home/researcher2/projects` directory:
+
+1. **Current & Updated File Permissions**:
+   - **Current file permissions**: Displays the file structure and permissions of files/subdirectories in `/home/researcher2/projects`.
+   - **Updated file permissions**: Reflects changes made to file permissions based on organizational policies.
+
+2. **File Permissions in Linux**:
+   - **Project description**: Outlines the tasks involved in examining and modifying file permissions within the projects directory.
+   - **Instructions**: Provides step-by-step instructions for checking permissions, understanding permission strings, and modifying permissions using Linux commands.
+
+3. **Scenario & Instructions for Linux Commands**:
+   - **Scenario**: Describes the role of a security professional in managing permissions for the research team, ensuring appropriate access control.
+   - **Instructions**: Details the steps for checking, describing, and changing file permissions, along with screenshots and explanations.
+
+Explore these documents for insights into managing file permissions effectively, adhering to security policies, and maintaining access control within Linux environments.
+
 ### [3/14/2024] Linux Software Installation Lab
 
 #### Introduction
