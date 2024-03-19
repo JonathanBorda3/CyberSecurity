@@ -4,6 +4,16 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
+### [3/08/2024] SQL Security Investigation Project
+
+- Investigated potential security threats in login attempts and employee data using SQL filters.
+- Analyzed after-hours failed login attempts, specific dates' login activities, and activities outside Mexico.
+- Targeted Marketing, Finance, and Sales departments' employees for security updates.
+- Identified security needs for departments not in IT, ensuring a comprehensive security posture.
+- Utilized SQL queries to retrieve critical data and insights for enhancing security measures.
+- Refer to the SQL queries for detailed investigation steps and insights.
+- ...
+  
 ### [3/01/2024] File Permissions Management in Linux
 
 This folder contains three important documents related to managing file permissions in Linux within the `/home/researcher2/projects` directory:
