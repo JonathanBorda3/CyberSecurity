@@ -4,8 +4,18 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
-### [2/13/2024] Home Network Device Inventory
+### [2/18/2024] [Risk Assessment - Commercial Bank]
 
+- Conducted a risk assessment for a commercial bank in a coastal area with low crime rates.
+- Analyzed potential risks to the bank's funds, including business email compromise, compromised user database, financial records leak, theft, and supply chain disruption.
+- Considered the bank's operational environment, including the number of employees, customer base, and marketing channels.
+- Prioritized risks based on likelihood and severity scores, using a risk matrix for assessment.
+- Developed a risk register to centralize potential risks and prioritize security measures.
+- Refer to the risk register for detailed risk descriptions, likelihood, severity, and priority scores.
+- Collaborated with cybersecurity team members to ensure comprehensive risk assessment and mitigation strategies.
+- ....
+  
+### [2/13/2024] Home Network Device Inventory
 - Created an Excel sheet to inventory network devices in a small home business environment.
 - Identified devices like desktops, smartphones, smart home devices, and game consoles.
 - Documented important characteristics such as network access, owner, and location for each device.
@@ -16,7 +26,6 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 
 ### [2/08/2024] SQL Security Investigation Project
-
 - Investigated potential security threats in login attempts and employee data using SQL filters.
 - Analyzed after-hours failed login attempts, specific dates' login activities, and activities outside Mexico.
 - Targeted Marketing, Finance, and Sales departments' employees for security updates.
@@ -26,7 +35,6 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 - ...
   
 ### [2/01/2024] File Permissions Management in Linux
-
 This folder contains three important documents related to managing file permissions in Linux within the `/home/researcher2/projects` directory:
 
 1. **Current & Updated File Permissions**:
@@ -44,7 +52,6 @@ This folder contains three important documents related to managing file permissi
 Explore these documents for insights into managing file permissions effectively, adhering to security policies, and maintaining access control within Linux environments.
 
 ### [1/25/2024] Linux Software Installation Lab
-
 #### Introduction
 This lab guides participants through the process of managing software installations and removals in a Linux distribution, specifically Ubuntu, using command-line tools. By leveraging the APT package manager and sudo privileges, users install Suricata and tcpdump, essential for network security analysis.
 
@@ -64,7 +71,6 @@ Your role as a security analyst requires that you have the Suricata and tcpdump 
 4. **List Installed Applications**: Confirm the installation of required applications by listing all installed applications using the APT package manager (`apt list --installed`).
 
 ### [1/18/2024] NIST Cybersecurity Framework Incident Report
-
 This folder contains documents related to network security practices and incident response strategies, focusing on the NIST Cybersecurity Framework (CSF).
 
 - Explored security hardening tasks, configurations, and risk assessment in network environments.
