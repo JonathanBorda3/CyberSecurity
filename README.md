@@ -4,15 +4,22 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
-### [2/18/2024] [Risk Assessment - Commercial Bank]
+### [2/23/2024] [Data Leak Incident Analysis - Educational Tech Company]
+- Conducted an analysis of a data leak incident at a tech company.
+- Reviewed the factors that led to the incident, including inadequate access controls and unintentional data sharing.
+- Identified control enhancements based on NIST SP 800-53: AC-6 to improve data security.
+- Recommended implementing stricter access controls based on user roles and automating access reviews.
+- Justified the recommendations to reduce the likelihood of future data leaks and improve information privacy.
+- Refer to the Data Leak Worksheet for detailed incident analysis, control enhancements, and justifications.
+- ...
 
+### [2/18/2024] [Risk Assessment - Commercial Bank]
 - Conducted a risk assessment for a commercial bank in a coastal area with low crime rates.
 - Analyzed potential risks to the bank's funds, including business email compromise, compromised user database, financial records leak, theft, and supply chain disruption.
 - Considered the bank's operational environment, including the number of employees, customer base, and marketing channels.
 - Prioritized risks based on likelihood and severity scores, using a risk matrix for assessment.
 - Developed a risk register to centralize potential risks and prioritize security measures.
 - Refer to the risk register for detailed risk descriptions, likelihood, severity, and priority scores.
-- Collaborated with cybersecurity team members to ensure comprehensive risk assessment and mitigation strategies.
 - ....
   
 ### [2/13/2024] Home Network Device Inventory
