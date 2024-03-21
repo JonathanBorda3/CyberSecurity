@@ -4,7 +4,18 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
-### [3/08/2024] SQL Security Investigation Project
+### [2/13/2024] Home Network Device Inventory
+
+- Created an Excel sheet to inventory network devices in a small home business environment.
+- Identified devices like desktops, smartphones, smart home devices, and game consoles.
+- Documented important characteristics such as network access, owner, and location for each device.
+- Evaluated device access based on stored information and owner's security practices.
+- Classified sensitivity levels (e.g., Restricted, Internal-only, Confidential) to prioritize security measures.
+- Refer to the Excel sheet for detailed device information and security classifications.
+- ...
+
+
+### [2/08/2024] SQL Security Investigation Project
 
 - Investigated potential security threats in login attempts and employee data using SQL filters.
 - Analyzed after-hours failed login attempts, specific dates' login activities, and activities outside Mexico.
@@ -14,7 +25,7 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 - Refer to the SQL queries for detailed investigation steps and insights.
 - ...
   
-### [3/01/2024] File Permissions Management in Linux
+### [2/01/2024] File Permissions Management in Linux
 
 This folder contains three important documents related to managing file permissions in Linux within the `/home/researcher2/projects` directory:
 
@@ -32,7 +43,7 @@ This folder contains three important documents related to managing file permissi
 
 Explore these documents for insights into managing file permissions effectively, adhering to security policies, and maintaining access control within Linux environments.
 
-### [2/25/2024] Linux Software Installation Lab
+### [1/25/2024] Linux Software Installation Lab
 
 #### Introduction
 This lab guides participants through the process of managing software installations and removals in a Linux distribution, specifically Ubuntu, using command-line tools. By leveraging the APT package manager and sudo privileges, users install Suricata and tcpdump, essential for network security analysis.
@@ -52,7 +63,7 @@ Your role as a security analyst requires that you have the Suricata and tcpdump 
 3. **Install the tcpdump Application**: Install tcpdump, a network traffic capturing tool, using the APT package manager (`sudo apt install tcpdump`).
 4. **List Installed Applications**: Confirm the installation of required applications by listing all installed applications using the APT package manager (`apt list --installed`).
 
-### [2/18/2024] NIST Cybersecurity Framework Incident Report
+### [1/18/2024] NIST Cybersecurity Framework Incident Report
 
 This folder contains documents related to network security practices and incident response strategies, focusing on the NIST Cybersecurity Framework (CSF).
 
@@ -70,13 +81,13 @@ The documents available are:
 These documents offer valuable insights into network security practices, incident response strategies, and the application of frameworks like the NIST CSF for effectively managing cybersecurity risks.
 
 
-### [2/10/2024] Network Hardening Tools and Security Risk Assessment
+### [1/10/2024] Network Hardening Tools and Security Risk Assessment
 - Explored security hardening tasks, configurations, and risk assessment in network environments.
 - Addressed vulnerabilities through Multifactor Authentication, Firewall Rule Configuration, and Password Policy Enforcement.
 - Referenced a scenario document highlighting major vulnerabilities and the need for security measures.
 - ...
   
-### [2/1/2024] Applying OS Hardening Techniques
+### [1/1/2024] Applying OS Hardening Techniques
 - This folder contains documents and logs related to networking, security incidents, and OS hardening techniques.
 - Explore the materials for insights into network analysis, security incident reporting, and operating system security.
 - Added tcpdump log with explanation: Reading the tcpdump traffic log.
@@ -85,27 +96,27 @@ These documents offer valuable insights into network security practices, inciden
   - Resources for more information on tcpdump usage.
 - ...
   
-### [1/24/2024] Analyzing Network Attacks
+### [12/24/2024] Analyzing Network Attacks
 - Conducted detailed analysis of a SYN flood attack.
 - Examined Wireshark TCP-HTTP logs to understand attack patterns.
 - Created a comprehensive Cybersecurity Incident Report outlining the attack's impact.
 - Implemented mitigation strategies to prevent future occurrences.
 - ...
 
-### [1/12/2024] Network Traffic Analysis
+### [12/12/2023] Network Traffic Analysis
 - Conducted a detailed analysis of DNS port 53 unreachable incidents using tcpdump.
 - Identified and documented potential vulnerabilities in DNS configurations.
 - Proposed recommendations for enhancing DNS availability and security.
 - ...
 
-### [1/5/2024] 
+### [12/5/2023] 
 - Implemented folder structure for better organization.
 - Added summaries and descriptions for commits based on the audit checklist.
 - Continued working on the Controls compliance checklist.
 - Explored additional resources on cybersecurity best practices.
 - ...
 
-### [1/4/2024] Botium Security Audit
+### [12/4/2023] Botium Security Audit
 - Added a checklist based on a mock security audit for Botium Toys.
 - Completed the Controls compliance checklist.
 - Provided 10 recommendations to improve security controls and compliance.
