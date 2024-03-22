@@ -4,6 +4,15 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates
 
+### [2/28/2024] [Investigation - Payroll Incident Analysis]
+
+- Conducted an investigation into a payroll incident at a business.
+- Reviewed the event log to identify the cause of the incident: the Legal/Administrator initiated the payroll event at 8:29:57 AM on 10/03/2023 using the account of a former employee (Robert Taylor Jr.).
+- Identified an authorization issue where an inactive account was used to access sensitive systems.
+- Recommended implementing role-based access control (RBAC) to restrict access to authorized personnel, enabling Multi-Factor Authentication (MFA), and setting user account expiration policies to prevent unauthorized access.
+- Refer to the Access controls worksheet for detailed incident analysis, authorization issues, and recommendations.
+- ...
+
 ### [2/23/2024] [Data Leak Incident Analysis - Educational Tech Company]
 - Conducted an analysis of a data leak incident at a tech company.
 - Reviewed the factors that led to the incident, including inadequate access controls and unintentional data sharing.
