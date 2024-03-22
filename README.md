@@ -1,4 +1,4 @@
-# Cybersecurity Practice Work
+# Cybersecurity Work
 
 This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be documenting my progress, security audits, and practice work related to cybersecurity.
 
