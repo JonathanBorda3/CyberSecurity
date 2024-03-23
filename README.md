@@ -2,7 +2,32 @@
 
 This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be documenting my progress, security audits, and practice work related to cybersecurity.
 
-## Updates
+## Updates 
+
+### [3/03/2024] [Vulnerability Assessment Report]
+
+- **System Description**
+  - Server hardware: Powerful CPU, 128GB memory, Linux OS, MySQL DBMS, IPv4 network, SSL/TLS encryption.
+
+- **Scope**
+  - Assess current access controls from June 20XX to August 20XX using NIST SP 800-30 Rev. 1.
+
+- **Purpose**
+  - Protect crucial customer data, ensure business continuity, and avoid significant operational impacts.
+
+- **Risk Assessment**
+  - Identified threats: Unauthorized access by employees, outsider hacking attempts, and malware attacks.
+  - Likelihood and severity scores used to calculate overall risk scores (6-9).
+
+- **Approach**
+  - Assessed risks based on data storage procedures and system access permissions.
+  - Identified threats considering likelihood and impact on daily operations.
+
+- **Remediation Strategy**
+  - Recommendations: Principle of Least Privilege, Defense in Depth, Multi-Factor Authentication, AAA framework.
+  - Specific measures proposed to address identified risks.
+
+For detailed information, refer to the full Vulnerability Assessment Report.
 
 ### [2/28/2024] [Investigation - Payroll Incident Analysis]
 
