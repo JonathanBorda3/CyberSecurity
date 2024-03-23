@@ -4,7 +4,23 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
-### [3/03/2024] [Vulnerability Assessment Report]
+### [3/08/2024] Parking Lot USB Exercise
+
+- **Purpose**
+  - This README.md outlines a security scenario involving a USB drive found in the parking lot of Rhetorical Hospital. It provides a structured approach for inspecting the device, analyzing it from an attacker's perspective, and assessing associated risks.
+
+- **Contents**
+  - The USB drive contains a mix of personal and work-related files belonging to Jorge Bailey, including family photos, a new hire letter, and an employee shift schedule.
+
+- **Attacker Mindset**
+  - The information on the USB drive could be used by an attacker to craft phishing emails, gain insights into hospital operations, and potentially establish unauthorized access to systems.
+
+- **Risk Analysis**
+  - Implementing controls such as employee awareness training, routine antivirus scans, and technical measures like endpoint security software can mitigate the risks associated with USB-baiting attacks.
+    
+For detailed insights and step-by-step instructions, refer to the full documents related to this scenario.
+
+### [3/03/2024] Vulnerability Assessment Report
 
 - **System Description**
   - Server hardware: Powerful CPU, 128GB memory, Linux OS, MySQL DBMS, IPv4 network, SSL/TLS encryption.
@@ -29,7 +45,7 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 For detailed information, refer to the full Vulnerability Assessment Report.
 
-### [2/28/2024] [Investigation - Payroll Incident Analysis]
+### [2/28/2024] Investigation - Payroll Incident Analysis
 
 - Conducted an investigation into a payroll incident at a business.
 - Reviewed the event log to identify the cause of the incident: the Legal/Administrator initiated the payroll event at 8:29:57 AM on 10/03/2023 using the account of a former employee (Robert Taylor Jr.).
@@ -38,7 +54,7 @@ For detailed information, refer to the full Vulnerability Assessment Report.
 - Refer to the Access controls worksheet for detailed incident analysis, authorization issues, and recommendations.
 - ...
 
-### [2/23/2024] [Data Leak Incident Analysis - Educational Tech Company]
+### [2/23/2024] Data Leak Incident Analysis - Educational Tech Company
 - Conducted an analysis of a data leak incident at a tech company.
 - Reviewed the factors that led to the incident, including inadequate access controls and unintentional data sharing.
 - Identified control enhancements based on NIST SP 800-53: AC-6 to improve data security.
@@ -47,7 +63,7 @@ For detailed information, refer to the full Vulnerability Assessment Report.
 - Refer to the Data Leak Worksheet for detailed incident analysis, control enhancements, and justifications.
 - ...
 
-### [2/18/2024] [Risk Assessment - Commercial Bank]
+### [2/18/2024] Risk Assessment - Commercial Bank
 - Conducted a risk assessment for a commercial bank in a coastal area with low crime rates.
 - Analyzed potential risks to the bank's funds, including business email compromise, compromised user database, financial records leak, theft, and supply chain disruption.
 - Considered the bank's operational environment, including the number of employees, customer base, and marketing channels.
