@@ -7,7 +7,7 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 ### [3/13/2024] Sneaker Company Security Threat Model
 
 ## Purpose
-This outlines the security threat model analysis for a mobile app developed by a sneaker company. The purpose of this is to identify and address potential risks and vulnerabilities in the app to ensure data security and user privacy.
+This section outlines the security threat model analysis for a mobile app developed by a sneaker company. The purpose of this is to identify and address potential risks and vulnerabilities in the app to ensure data security and user privacy.
 
 ## Overview
 - **Step 1: Identify Objectives**: Understand the app's purpose and functionalities.
