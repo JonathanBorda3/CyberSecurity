@@ -4,6 +4,23 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/13/2024] Sneaker Company Security Threat Model
+
+## Purpose
+This outlines the security threat model analysis for a mobile app developed by a sneaker company. The purpose of this is to identify and address potential risks and vulnerabilities in the app to ensure data security and user privacy.
+
+## Overview
+- **Step 1: Identify Objectives**: Understand the app's purpose and functionalities.
+- **Step 2: Evaluate Components**: Assess the technologies used for potential security risks.
+- **Step 3: Review Data Flow**: Analyze how information flows within the app to protect data.
+- **Step 4: Analyze Threats**: Identify possible attacks and threat scenarios.
+- **Step 5: Assess Vulnerabilities**: List weaknesses that attackers could exploit.
+- **Step 6: Map Attack Scenarios**: Create an attack tree to visualize potential attacks.
+- **Step 7: Implement Security Controls**: Add measures to mitigate risks and enhance security.
+
+**Conclusion**
+This threat model analysis aims to strengthen the security posture of the sneaker company's app, ensuring a safe and secure experience for users and protecting sensitive data.
+
 ### [3/08/2024] Parking Lot USB Exercise
 
 - **Purpose**
