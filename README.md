@@ -4,6 +4,20 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/13/2024] Incident Handler's Journal
+
+**Purpose:**  
+This section provides guidelines for recording incident details in the Incident Handler's Journal, along with a scenario of a security incident at a healthcare clinic.
+
+**Contents:**
+- Steps for recording a journal entry in the Incident Handler's Journal.
+- Description of the security incident scenario at a healthcare clinic.
+- Guidelines for filling out the journal entry with the 5 W's (Who, What, When, Where, Why).
+- Additional notes section for questions and thoughts related to the incident scenario.
+
+**Conclusion:**  
+By following the documents provided, you can effectively document incident details and analyze security incidents using the Incident Handler's Journal framework.
+
 ### [3/13/2024] Sneaker Company Security Threat Model
 
 ## Purpose
