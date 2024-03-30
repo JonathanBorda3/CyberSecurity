@@ -4,6 +4,23 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/18/2024] Phishing Incident Response Project
+
+### Purpose
+This project focuses on using a playbook to respond to a phishing incident in a level-one Security Operations Center (SOC) at a financial services company. The scenario involves investigating a phishing alert about a suspicious file being downloaded on an employee's computer. The project aims to demonstrate the structured approach and procedures followed in responding to such incidents according to the organization's security policies.
+
+### Contents
+1. Scenario and Steps: Details the scenario, steps to follow, and key actions during the investigation.
+2. Phishing Incident Response Playbook: Provides the playbook version, purpose, and steps for responding to phishing incidents.
+3. Alert Ticket: Includes the alert message, severity, details, and ticket status.
+4. Incident Handler's Journal: Captures the details, tools used, 5 W's analysis, and additional notes about the incident.
+
+### Conclusion
+After reviewing the playbook, evaluating the alert, and analyzing the incident details, the decision was made to escalate the alert due to the presence of a known malicious file hash, inconsistencies in the sender information, grammatical errors in the email, and the successful download of a password-protected attachment. This project showcases the importance of a structured incident response process and the need for continuous vigilance against phishing attacks in organizational cybersecurity strategies.
+
+For detailed information and step-by-step instructions, refer to the specific documents within the folder.
+
+
 ### [3/16/2024] Investigate a suspicious file hash
 
 ## Purpose
