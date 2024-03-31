@@ -4,7 +4,7 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
-### [1/21/2024] Incident Report Review
+### [3/19/2024] Incident Report Review
 
 ### Purpose
 This project involves a review of a major security incident at a mid-sized retail company, focusing on a data breach that occurred before the analyst joined the security team. The goal is to understand the incident's life cycle, including what happened, when it happened, the response actions taken, and future recommendations to prevent similar incidents.
