@@ -4,6 +4,35 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [1/21/2024] Incident Report Review
+
+### Purpose
+This project involves a review of a major security incident at a mid-sized retail company, focusing on a data breach that occurred before the analyst joined the security team. The goal is to understand the incident's life cycle, including what happened, when it happened, the response actions taken, and future recommendations to prevent similar incidents.
+
+### Contents
+1. Goals and Answers: Summarizes the identified goals and their corresponding answers regarding the incident.
+2. Incident Summary: Provides an overview of the incident, including unauthorized access to customer data and its financial impact.
+3. Conclusion: Concludes the project with insights into proactive security measures and the importance of continuous monitoring.
+
+### Goals and Answers
+- **Goal 1:** Identify exactly what happened.
+  - The organization experienced a data breach affecting approximately 50,000 customer records.
+- **Goal 2:** Identify when it happened.
+  - The security incident occurred on December 28, 2022, with initial signs noted on December 22, 2022.
+- **Goal 3:** Identify the response actions that the company took.
+  - The company responded by investigating the breach, disclosing it to affected customers, and implementing security measures.
+- **Goal 4:** Identify future recommendations.
+  - Recommendations include routine vulnerability scans, penetration testing, and access control mechanisms.
+
+### Incident Summary
+The incident involved an unauthorized access to customer personal identifiable information (PII) and financial data, resulting in a financial impact of $100,000. The root cause was a vulnerability in the e-commerce web application.
+
+### Conclusion
+This review emphasizes the significance of proactive security measures like routine scans and access control to prevent similar incidents. Continuous monitoring and response strategies are crucial in safeguarding customer data and mitigating financial losses.
+
+For detailed information, refer to the incident report review within the project folder.
+
+
 ### [3/18/2024] Use a playbook to respond to a phishing incident
 
 ### Purpose
