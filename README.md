@@ -4,6 +4,41 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/23/2024] Perform a query with Chronicle
+
+#### Purpose
+This project involves investigating a phishing domain discovered in a suspicious email received by an employee at a financial services company. The goal is to determine the extent of the phishing attempt, identify affected assets, assess the threat level, and take appropriate action to mitigate potential risks.
+
+#### Contents
+1. Description: Brief overview of the incident investigation.
+2. Tools Used: Chronicle, VirusTotal (VT), ET Intelligence Rep List.
+3. The 5 W's: Capturing essential details of the incident.
+4. Additional Notes: Including any findings or observations.
+
+#### Description
+This report documents the investigation process of a phishing domain (signin.office365x24.com) identified in a suspicious email received by an employee.
+
+#### Tools Used
+- Chronicle: Used for domain search and investigation.
+- VirusTotal (VT): Analyzed available VirusTotal information.
+- ET Intelligence Rep List: Provided additional threat intelligence data.
+
+#### The 5 W's
+- **Who caused the incident?** External threat actor initiated the phishing attempt.
+- **What happened?** Employee received a phishing email containing the domain signin.office365x24.com.
+- **When did the incident occur?** Investigated on 3/23/2024.
+- **Where did the incident happen?** Within the company's email system, affecting an employee.
+- **Why did the incident happen?** Phishing attack targeting employees for unauthorized access or data extraction.
+
+#### Additional Notes
+- ET Intelligence Rep List categorized the domain as a drop site for logs or stolen credentials.
+- Assets accessed the phishing domain: roger-spence-pc, coral-alvarez-pc, emil-palmer-pc.
+- Domain resolved to IP address 40.100.174.34 with three POST requests made.
+- Target URL for POST requests: http://signin.office365x24.com/login.php.
+
+#### Conclusion
+The investigation into the phishing domain signin.office365x24.com revealed significant threats, including potential credential theft and unauthorized access. It emphasizes the need for employee awareness and robust email security measures to combat phishing attempts effectively.
+
 ### [3/21/2024] Perform a query with Splunk
 
 #### Purpose
