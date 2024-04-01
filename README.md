@@ -4,7 +4,7 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
-### [3/21/2024] Incident Investigation Report - SSH Login Failure Analysis
+### [3/21/2024] Perform a query with Splunk
 
 #### Purpose
 This project involves investigating failed SSH logins for the root account on the mail server at Buttercup Games. The goal is to analyze log data using Splunk Cloud, identify security issues, and assess the severity of the incident.
