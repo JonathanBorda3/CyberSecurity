@@ -4,17 +4,47 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/21/2024] Perform a query with Splunk
+
+#### Purpose
+This project involves investigating failed SSH logins for the root account on the mail server at Buttercup Games. The goal is to analyze log data using Splunk Cloud, identify security issues, and assess the severity of the incident.
+
+#### Contents
+1. Description: Brief overview of the incident investigation.
+2. Tools Used: Splunk Cloud for log analysis.
+3. The 5 W's: Capturing essential details of the incident.
+4. Additional Notes: Including any findings or observations.
+
+#### Description
+This report documents the investigation into failed SSH logins for the root account on the mail server at Buttercup Games. Splunk Cloud was used to analyze log data and identify potential security issues.
+
+#### Tools Used
+- Splunk Cloud: Used for log analysis and search queries.
+
+#### The 5 W's
+- **Who caused the incident?** Unknown at this stage; investigation ongoing.
+- **What happened?** Failed SSH logins for the root account on the mail server.
+- **When did the incident occur?** Date and time details captured in the investigation.
+- **Where did the incident happen?** On the mail server at Buttercup Games.
+- **Why did the incident happen?** Investigating potential vulnerabilities or unauthorized access attempts.
+
+#### Additional Notes
+The investigation is ongoing, with a focus on identifying the root cause of the failed SSH logins and adding security measures to prevent future incidents.
+
+#### Conclusion
+The incident investigation into failed SSH logins on the mail server at Buttercup Games using Splunk Cloud has provided valuable insights. Further analysis and actions will be taken to enhance the security posture and prevent similar incidents in the future.
+
 ### [3/19/2024] Incident Report Review
 
-### Purpose
+#### Purpose
 This project involves a review of a major security incident at a mid-sized retail company, focusing on a data breach that occurred before the analyst joined the security team. The goal is to understand the incident's life cycle, including what happened, when it happened, the response actions taken, and future recommendations to prevent similar incidents.
 
-### Contents
+#### Contents
 1. Goals and Answers: Summarizes the identified goals and their corresponding answers regarding the incident.
 2. Incident Summary: Provides an overview of the incident, including unauthorized access to customer data and its financial impact.
 3. Conclusion: Concludes the project with insights into proactive security measures and the importance of continuous monitoring.
 
-### Goals and Answers
+#### Goals and Answers
 - **Goal 1:** Identify exactly what happened.
   - The organization experienced a data breach affecting approximately 50,000 customer records.
 - **Goal 2:** Identify when it happened.
@@ -24,10 +54,10 @@ This project involves a review of a major security incident at a mid-sized retai
 - **Goal 4:** Identify future recommendations.
   - Recommendations include routine vulnerability scans, penetration testing, and access control mechanisms.
 
-### Incident Summary
+#### Incident Summary
 The incident involved an unauthorized access to customer personal identifiable information (PII) and financial data, resulting in a financial impact of $100,000. The root cause was a vulnerability in the e-commerce web application.
 
-### Conclusion
+#### Conclusion
 This review emphasizes the significance of proactive security measures like routine scans and access control to prevent similar incidents. Continuous monitoring and response strategies are crucial in safeguarding customer data and mitigating financial losses.
 
 For detailed information, refer to the incident report review within the project folder.
@@ -35,16 +65,16 @@ For detailed information, refer to the incident report review within the project
 
 ### [3/18/2024] Use a playbook to respond to a phishing incident
 
-### Purpose
+#### Purpose
 This project focuses on using a playbook to respond to a phishing incident in a level-one Security Operations Center (SOC) at a financial services company. The scenario involves investigating a phishing alert about a suspicious file being downloaded on an employee's computer. The project aims to demonstrate the structured approach and procedures followed in responding to such incidents according to the organization's security policies.
 
-### Contents
+#### Contents
 1. Scenario and Steps: Details the scenario, steps to follow, and key actions during the investigation.
 2. Phishing Incident Response Playbook: Provides the playbook version, purpose, and steps for responding to phishing incidents.
 3. Alert Ticket: Includes the alert message, severity, details, and ticket status.
 4. Incident Handler's Journal: Captures the details, tools used, 5 W's analysis, and additional notes about the incident.
 
-### Conclusion
+#### Conclusion
 After reviewing the playbook, evaluating the alert, and analyzing the incident details, the decision was made to escalate the alert due to the presence of a known malicious file hash, inconsistencies in the sender information, grammatical errors in the email, and the successful download of a password-protected attachment. This project showcases the importance of a structured incident response process and the need for continuous vigilance against phishing attacks in organizational cybersecurity strategies.
 
 For detailed information and step-by-step instructions, refer to the specific documents within the folder "Use a playbook to respond to a phishing incident".
@@ -52,25 +82,25 @@ For detailed information and step-by-step instructions, refer to the specific do
 
 ### [3/16/2024] Investigate a suspicious file hash
 
-## Purpose
+### Purpose
 This section details an investigation into a suspicious file download incident at a financial services company. It provides a structured guide for analyzing the incident, utilizing tools like SHA256 hashing and VirusTotal for IoC discovery, and assessing associated risks using the Pyramid of Pain framework.
 
-## Key Points
+### Key Points
 
-### Scenario
+#### Scenario
 The scenario involves a level one security operations center (SOC) analyst investigating a suspicious file download on an employee's computer. The file, received via email, contains a malicious payload executed after the employee entered a provided password.
 
-### Steps for Investigation
+#### Steps for Investigation
 1. Review the alert details and timeline.
 2. Enter the file hash into VirusTotal for IoC discovery.
 3. Analyze the VirusTotal report for detections, behaviors, and IoCs.
 4. Determine if the file is malicious based on report findings.
 5. Enter identified IoCs into the Pyramid of Pain template.
 
-### Incident Handler's Journal
+#### Incident Handler's Journal
 The incident handler's journal captures details of the incident, including who, what, when, where, and why, along with additional notes about the file's malicious nature and associated threat actors.
 
-### Conclusion
+#### Conclusion
 Through this project, we demonstrate a structured approach to cybersecurity incident investigation and analysis. By leveraging tools like SHA256 hashing and VirusTotal, along with frameworks like the Pyramid of Pain, we can effectively identify, analyze, and respond to cybersecurity threats in a systematic manner.
 
 For detailed instructions and documentation, refer to the full documents related to this scenario in the "Investigate a suspicious file hash" folder. 
@@ -91,10 +121,10 @@ By following the documents provided, you can effectively document incident detai
 
 ### [3/13/2024] Sneaker Company Security Threat Model
 
-## Purpose
+#### Purpose
 This section outlines the security threat model analysis for a mobile app developed by a sneaker company. The purpose of this is to identify and address potential risks and vulnerabilities in the app to ensure data security and user privacy.
 
-## Overview
+#### Overview
 - **Step 1: Identify Objectives**: Understand the app's purpose and functionalities.
 - **Step 2: Evaluate Components**: Assess the technologies used for potential security risks.
 - **Step 3: Review Data Flow**: Analyze how information flows within the app to protect data.
