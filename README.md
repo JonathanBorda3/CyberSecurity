@@ -4,6 +4,18 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/28/2024] Update a file through a Python algorithm
+
+#### Description
+This project demonstrates how to update a file using a Python algorithm. It involves reading a file, modifying its contents based on specific criteria, and then rewriting the updated data back to the file.
+
+#### Purpose
+The purpose of this project is to showcase how Python can be used to automate file manipulation tasks, such as updating lists or removing elements from a file. By understanding the algorithms used here, developers can learn how to efficiently manage file operations in their projects.
+
+#### Conclusion
+In conclusion, this Python algorithm provides a practical approach to updating files programmatically. By following the steps outlined in the algorithm, users can effectively modify file contents as needed, saving time and effort in manual file editing processes.
+
+
 ### [3/23/2024] Perform a query with Chronicle
 
 ### Investigating Phishing Domain
