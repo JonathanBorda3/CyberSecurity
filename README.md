@@ -4,6 +4,29 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/23/2024] Perform a query with Chronicle
+
+### Investigating Phishing Domain
+
+#### Purpose
+Investigate a phishing domain (signin.office365x24.com) identified in a suspicious email at a financial services company.
+
+#### Tools Used
+- Chronicle
+- VirusTotal (VT)
+- ET Intelligence Rep List
+
+#### The 5 W's
+- **Who?** External threat actor
+- **What?** Phishing attempt via signin.office365x24.com
+- **When?** Investigated on 3/23/2024
+- **Where?** Company email system
+- **Why?** Unauthorized access or data theft
+
+#### Conclusion
+The investigation revealed a phishing threat targeting employees, highlighting the need for enhanced email security measures.
+
+
 ### [3/21/2024] Perform a query with Splunk
 
 #### Purpose
