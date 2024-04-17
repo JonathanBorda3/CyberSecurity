@@ -4,6 +4,24 @@ This branch is dedicated to my CyberSecurity profile on GitHub. Here, I'll be do
 
 ## Updates 
 
+### [3/31/2024] Cybersecurity Analyst Interests Overview
+
+#### Purpose
+This brief overview highlights my key interests in cybersecurity, intended for potential employers to understand my focus areas.
+
+#### Core Interests
+- Security Awareness
+- Data Protection
+- Cloud Security
+
+#### Key Organizations
+- ISACA
+- CISA
+- Cloud Security Alliance (CSA)
+
+#### Note
+For a detailed exploration of how these interests and organizations align with my professional goals, please refer to the accompanying security organization worksheet.
+
 ### [3/28/2024] Update a file through a Python algorithm
 
 #### Description
